@@ -1,5 +1,5 @@
 # CPI-Urban
-A data visualization of the Consumer Price Index's fluctuation for all urban consumers from 1913 to 2022 (110 years of data). The code uses the Matplotlib and Pandas libraries to bring this data into an appropriate visualization.
+A data visualization of the Consumer Price Index's fluctuation for all urban consumers in the United States from 1913 to 2022 (110 years of data). The code uses the Matplotlib and Pandas libraries to bring this data into an appropriate visualization.
 
 # Purpose
 The purpose of this project is to display the disproportionate rate in which the CPI-U increases as time goes on, with it starting to spike higher at the start of the mid-1970s. 
